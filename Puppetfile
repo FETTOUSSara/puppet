@@ -31,4 +31,4 @@ forge 'https://forge.puppet.com'
            :install_path => 'hieradata'
            mod 'site_data_2',
              :git => 'git@example.com:site_data_2.git'
-               :install_path => ' ',
+               :install_path => ' '
