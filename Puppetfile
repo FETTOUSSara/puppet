@@ -5,7 +5,7 @@ forge 'https://forge.puppet.com'
  # Versions should be updated to be the latest at the time you start
  #mod 'puppetlabs/inifile', '5.0.1'
  #mod 'puppetlabs/apache', '8.2.1'
- mod 'puppetlabs/stdlib',  '7.0.1'
+ #mod 'puppetlabs/stdlib',  '7.0.1'
  mod 'puppetlabs/concat',  '7.0.1'
 
 # # Modules from Git
